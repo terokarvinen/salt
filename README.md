@@ -1,2 +1,3 @@
 # salt
-Salt configuration management for lab
+
+Salt configuration management for lab. 
